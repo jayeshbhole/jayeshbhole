@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey! Jayesh Here 
+
+- 🔭 I’m currently working on [Minor College Project]()
+- 🌱 I’m currently learning Website Development :P
 
 <!--
 **jayeshbhole/jayeshbhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
