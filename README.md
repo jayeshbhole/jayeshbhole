@@ -4,9 +4,9 @@
 
 👯 Latest Collaborations: 
 
- Front end of [Eclectic](https://eclecticiiitp.in) with **[@harsh132](https://github.com/harsh132)**
+   - Front end of [Eclectic](https://eclecticiiitp.in) with **[@harsh132](https://github.com/harsh132)**
  
- [InfInITy 2k20](https://infinity.iiitp.ac.in) with **[@rakshitjain13](https://github.com/rakshitjain13)** and **[@Mukhrit](https://github.com/Mukhrit)**
+   - [InfInITy 2k20](https://infinity.iiitp.ac.in) with **[@rakshitjain13](https://github.com/rakshitjain13)** and **[@Mukhrit](https://github.com/Mukhrit)**
 
 📫 Reach me on [mail](jayeshbhole123@gmail.com)
 
