@@ -1,8 +1,8 @@
-### Hey there! Jayesh Here 
+### Hey there!
 
 > Be the master of you mind and not its slave
 
-🔭 Working on [Minor College Project](https://github.com/jayeshbhole/Project-Flow)
+🔭 Working on [Minor Project](https://github.com/jayeshbhole/Project-Flow)
 
 👯 Latest Collaborations: 
 
