@@ -10,7 +10,7 @@
    - [InfInITy 2k20](https://infinity.iiitp.ac.in) with **[@rakshitjain13](https://github.com/rakshitjain13)** and **[@Mukhrit](https://github.com/Mukhrit)**
 
 
-📫 Reach me on [mail](jayeshbhole123@gmail.com)
+📫 Reach me on [mail](mailto:jayeshbhole123@gmail.com)
 
 
 🌱 Currently Learning: MERN Stack, DiscordJS, Firebase
