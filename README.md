@@ -2,11 +2,15 @@
 <h3 align="center">Web2-3 Developer. I love hacking and developing user experiences.</h3>
 <br/>
 
+- ⚛️ React Web3 Developer
+
 - 🔭 I’m currently working on [DeSIP - SIPs for DeFi](https://github.com/DAM-Protocol/dSIP-interface)
 
 - 🌱 I’m currently learning **Solidity, Web3.0 and Cooking**
 
 - 👨‍💻 All of my projects are available at [https://jayeshbhole.github.io](https://jayeshbhole.github.io)
+
+- 🏆 Winner at **6 Web3.0 Hackathons** including Polygon's **BUIDL IT** and **Road To Web3**, Celo's **Make DeFi Mobile** and, EthIndia's **EthOdyssey**.
 
 <br/>
 
