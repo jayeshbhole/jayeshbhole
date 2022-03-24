@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayesh</h1>
-<h3 align="center">Web2-3 Developer. I love hacking and developing user experiences.</h3>
+<h3 align="center">Web2-3 Fullstack Developer. I love hacking and developing user experiences.</h3>
+<h5 align="center">Serial hacker and a builder. Currently building DeFi products.</h3>
 <br/>
+
+  
 
 - ⚛️ React Web3 Developer
 
