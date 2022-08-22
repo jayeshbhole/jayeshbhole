@@ -3,6 +3,8 @@
 <h5 align="center">Serial hacker and a builder. Currently building DeFi products.</h3>
 <br/>
 
+**Blockchain Intern [@Router Protocol](https://routerprotocol.com/)**
+
 **Fellow [@Polygon](https://polygon.technology/polygon-fellowship/)**
 
 **Ex-Web3 Intern @Myriad**
