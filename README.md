@@ -14,12 +14,13 @@
 A curious mind exploring Web3 and Ethereum Development with **React.js, Javascript, Python and, Solidity**. Aims to contribute to something huge in the process.
 
 Hackathon Winner at
+- [**ETHIndia**, 2022](https://devfolio.co/projects/panda-wallet-698f)
 - [**Road To Web3**, 2022](https://showcase.ethglobal.com/roadtoweb3/stroller-protocol)
 - [**BUIDL IT**, 2021](https://devfolio.co/projects/shatranj-d063)
-- [**BUIDL IT**, 2021]()
+- [**BUIDL IT**, 2021](https://devfolio.co/projects/dsip-4481)
 - [**Celo's Make Crypto Mobile**, 2021](https://devpost.com/software/certify-d6htlu)
 - [**EthOdysey**, 2021](https://devfolio.co/projects/marsmello-a90e)
-- [**Bhilai Hacks**, 2021](url)
+- [**Bhilai Hacks**, 2021]()
 
 On the edge of my seat to create user experiences be it online or offline.
 
