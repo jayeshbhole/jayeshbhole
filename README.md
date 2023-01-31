@@ -5,6 +5,8 @@
 
 **Blockchain Intern [@Router Protocol](https://routerprotocol.com/)**
 
+**Fellow [@ETHIndia Fellowship 3.0](https://eif3.devfolio.co/)**
+
 **Fellow [@Polygon](https://polygon.technology/polygon-fellowship/)**
 
 **Ex-Web3 Intern @Myriad**
