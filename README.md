@@ -7,10 +7,6 @@ Building random ideas, banging my head with design challenges and finding out wa
 
 Polygon, ETHIndia Fellow and 8x Hackathon winner
 
-Devfolio: https://devfolio.co/@jaybb
-Github: https://github.com/jayeshbhole
-
-
 ### Experience
 
 - Frontend Engineer [@Router Protocol](https://routerprotocol.com/)
