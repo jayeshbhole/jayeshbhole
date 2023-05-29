@@ -1,20 +1,31 @@
 <h1 align="center">Hi 👋, I'm Jayesh</h1>
-<h3 align="center">Web2-3 Fullstack Developer. I love hacking and developing user experiences.</h3>
-<h5 align="center">Serial hacker and a builder. Currently building DeFi products.</h3>
 <br/>
 
-**Blockchain Intern [@Router Protocol](https://routerprotocol.com/)**
 
-**Fellow [@ETHIndia Fellowship 3.0](https://eif3.devfolio.co/)**
+Heyy, this is Jayesh, a developer/builder who has a solid knack for creating and sharing experiences and stories. 
 
-**Fellow [@Polygon](https://polygon.technology/polygon-fellowship/)**
+Building random ideas, banging my head with design challenges and finding out ways to hack around problems is my usual to-do list. 
 
-**Ex-Web3 Intern @Myriad**
+Polygon, ETHIndia Fellow and 8x Hackathon winner
 
-**B.Tech Undergrad [@IIIT Pune](http://iiitp.ac.in/) 2023**
+Devfolio: https://devfolio.co/@jaybb
+Github: https://github.com/jayeshbhole
 
-A curious mind exploring Web3 and Ethereum Development with **React.js, Javascript, Python and, Solidity**. Aims to contribute to something huge in the process.
 
+### Experience
+
+- Frontend Engineer [@Router Protocol](https://routerprotocol.com/)
+
+- Fellow [@ETHIndia Fellowship 3.0](https://eif3.devfolio.co/)
+
+- Blockchain Intern [@Router Protocol](https://routerprotocol.com/)
+
+- Fellow [@Polygon](https://polygon.technology/polygon-fellowship/)
+
+- Web3 Intern @Myriad
+
+
+### Hacks
 Hackathon Winner at
 - [**ETHIndia**, 2022](https://devfolio.co/projects/panda-wallet-698f)
 - [**Road To Web3**, 2022](https://showcase.ethglobal.com/roadtoweb3/stroller-protocol)
@@ -24,15 +35,13 @@ Hackathon Winner at
 - [**EthOdysey**, 2021](https://devfolio.co/projects/marsmello-a90e)
 - [**Bhilai Hacks**, 2021]()
 
-On the edge of my seat to create user experiences be it online or offline.
-
 
 <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jayeshbhole_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayeshbhole_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jayesh-bhole-701086193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayesh-bhole-701086193" height="30" width="40" /></a>
+<a href="https://twitter.com/0xJayesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jayeshbhole_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jayesh-bhole-701086193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayeshbhole" height="30" width="40" /></a>
 <a href="https://medium.com/@jayeshbhole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jayeshbhole" height="30" width="40" /></a>
 </p>
 
