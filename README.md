@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayesh</h1>
-<br/>
+
 
 
 Heyy, this is Jayesh, a developer/builder who has a solid knack for creating and sharing experiences and stories. 
