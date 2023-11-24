@@ -9,7 +9,7 @@ Polygon, ETHIndia Fellow and 8x Hackathon winner
 
 ### Experience
 
-- Frontend Engineer [@Router Protocol](https://routerprotocol.com/)
+- Fullstack Engineer [@Router Protocol](https://routerprotocol.com/)
 
 - Fellow [@ETHIndia Fellowship 3.0](https://eif3.devfolio.co/)
 
