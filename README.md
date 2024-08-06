@@ -5,8 +5,6 @@ Heyy, this is Jayesh, a developer/builder who has a solid knack for creating and
 
 Building random ideas, banging my head with design challenges and finding out ways to hack around problems is my usual to-do list. 
 
-Polygon, ETHIndia Fellow.
-
 ### Experience
 
 - Founding Engineer and Designer [@StakeEase](https://stakeease.com/)
