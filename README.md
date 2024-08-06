@@ -5,7 +5,7 @@ Heyy, this is Jayesh, a developer/builder who has a solid knack for creating and
 
 Building random ideas, banging my head with design challenges and finding out ways to hack around problems is my usual to-do list. 
 
-Polygon, ETHIndia Fellow and 8x Hackathon winner
+Polygon, ETHIndia Fellow.
 
 ### Experience
 
