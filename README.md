@@ -21,7 +21,6 @@ Building random ideas, banging my head with design challenges and finding out wa
 
 
 ### Hacks
-Hackathon Winner at
 - [**Unfold**, 2023](https://devfolio.co/projects/bridge-ai-fc28)
 - [**ETHIndia**, 2022](https://devfolio.co/projects/panda-wallet-698f)
 - [**Road To Web3**, 2022](https://showcase.ethglobal.com/roadtoweb3/stroller-protocol)
